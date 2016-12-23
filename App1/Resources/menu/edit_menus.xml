@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+       android:id="@+id/menu_cut"
+       android:icon="@drawable/ic_launcher"
+       android:showAsAction="ifRoom"
+       android:title="Cut" />
+  <item
+       android:id="@+id/menu_copy"
+       android:icon="@drawable/ic_launcher"
+       android:showAsAction="ifRoom"
+       android:title="Copy" />
+</menu>
